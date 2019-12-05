@@ -1,0 +1,16 @@
+body {
+  background-color: #3a994d;
+  color: black;
+  text-align: center;
+  font-size: 20px;
+}
+
+p {
+  font-family: "Georgia", Times, serif;
+}
+
+.back {
+ text-align: left;
+}
+
+
